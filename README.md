@@ -41,7 +41,7 @@
 ---
 
 ### 💌 Entre em Contato!
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-braga-9b6330294/) 
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/anderson-braga-9b6330294/](https://www.linkedin.com/in/anderson-carvalho-braga-9b6330294/)) 
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bragaxs/)
 
 ---
