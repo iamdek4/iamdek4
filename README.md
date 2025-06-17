@@ -40,7 +40,7 @@
 
 Atualmente estou trabalhando em projetos como:
 
-- **Painel de Senhas Inteligente** com chamadas de carregamento e descarregamento em tempo real  
+- **Painel para Chamados** focado em carga e descarga (logistica & expedição) 
 - **Plataforma de Apostas em Sinuca (Zyon)** com ranking e reset semanal/mensal  
 - **Automação para eFootball** com detecção de input e loop configurável
 - **Projeto Financeiro e Tarefas** controle de gastos em geral, comprovantes, lembretes em geral, resumos do mês, etc..
