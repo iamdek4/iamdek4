@@ -5,14 +5,18 @@
   <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="250px">
 </div>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=iamdek4&style=flat-square&color=blue" alt="Profile views" />
+</p>
+
 ---
 
 ### 🌟 Sobre Mim
 
-- 🚀 Explorando o universo da tecnologia!  
-- 🔮 Criador de soluções inovadoras.  
-- 📝 Aprendiz eterno.  
-- 📚 Fã de ficção científica!
+- 🚀 Explorando o universo da tecnologia  
+- 🔮 Criador de soluções inovadoras  
+- 📝 Aprendiz eterno  
+- 📚 Fã de ficção científica
 
 ---
 
@@ -29,6 +33,19 @@
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500px">
 </div>
+
+---
+
+### 🚧 Projetos em Andamento
+
+Atualmente estou trabalhando em projetos como:
+
+- **Painel de Senhas Inteligente** com chamadas de carregamento e descarregamento em tempo real  
+- **Plataforma de Apostas em Sinuca (Zyon)** com ranking e reset semanal/mensal  
+- **Automação para eFootball** com detecção de input e loop configurável
+- **Projeto Financeiro e Tarefas** controle de gastos em geral, comprovantes, lembretes em geral, resumos do mês, etc..
+
+> 🔜 Repositórios serão públicos em breve — fique ligado!
 
 ---
 
