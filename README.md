@@ -1,63 +1,38 @@
-🚀 DEKÁ.CB | Anderson Carvalho Braga
-CEO @ ACTUS X | Engenheiro de Software & Produção | Lean Six Sigma [Green Belt]
+🚀 DEKÁ.CB — Anderson Carvalho Braga
+<div align="center">
+CEO @ ACTUS X · Eng. Software · Eng. Produção · Lean Six Sigma 🟢
 
-<div align="center"> <img src="https://komarev.com/ghpvc/?username=iamdek4&style=flat-square&color=blue" alt="Profile views" /> </div>
-👨‍💼 Sobre Mim
-Profissional multidisciplinar com expertise em Engenharia de Software, Engenharia de Produção e Administração. Como CEO da ACTUS X, lidero o desenvolvimento de soluções tecnológicas inovadoras para otimização de processos industriais e logísticos.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;Automa%C3%A7%C3%A3o+Industrial+%E2%9A%99%EF%B8%8F;Estoque+Inteligente+%F0%9F%93%A6;Sempre+aprendendo+%F0%9F%9A%80" alt="Typing SVG" /><img src="https://komarev.com/ghpvc/?username=iamdek4&style=for-the-badge&color=00F7FF&label=VISITAS" /> <img src="https://img.shields.io/badge/Foco-Inova%C3%A7%C3%A3o-FF6B6B?style=for-the-badge&logo=rocket&logoColor=white" /> <img src="https://img.shields.io/badge/Caf%C3%A9-%E2%88%9E-6F4E37?style=for-the-badge&logo=buymeacoffee&logoColor=white" /></div>
+🧠 Stack Rápida
+<div align="center"> <img src="https://skillicons.dev/icons?i=ts,js,cs,py,php,html,react,nodejs,docker,mongodb,git,github" /> </div>
+🏢 ACTUS X — o que a gente constrói
+<div align="center">
+🖨️ Impressão Personalizada	📦 Estoque Inteligente	🖥️ Totem Smart
+Identificação sob medida	Controle em tempo real	Autoatendimento
+📋 Requisições Smart	⚙️ Apontamento ao Vivo
+Validação automática de estoque	KPIs + dashboards em tempo real
+</div>
+🎓 Skills & Idiomas
+<div align="center">
+Eng. Software · Eng. Produção · Lean Six Sigma Green Belt · Administração · PCP
 
-🎯 Lean Six Sigma Green Belt certificado
+🇧🇷 PT ██████████ 100% · 🇺🇸 EN ████████░░ 80% · 🇫🇷 FR █████░░░░░ 50%
 
-🌐 Idiomas: Português (Nativo), Inglês (Avançado), Francês (Intermediário)
+</div>
+📊 Métricas
+<div align="center"> <img height="160em" src="https://github-readme-stats.vercel.app/api?username=iamdek4&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/> <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=iamdek4&theme=radical&hide_border=true" /> <br> <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iamdek4&theme=radical"/> <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iamdek4&theme=radical"/> </div>
+🚧 Em Construção
+🎱 Zyon · 🎮 Auto-eFootball · 📞 Chamados Logísticos · 💰 FinControl
 
-📊 Especialista em PCP (Planejamento e Controle da Produção)
+Repos chegando em breve... 👀
 
-🔧 Desenvolvedor Full Stack com foco em automação e sistemas inteligentes
+<div align="center">
+<a href="https://www.linkedin.com/in/anderson-carvalho-braga-9b6330294/"><img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.instagram.com/bragaxs/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
-💻 Tech Stack
-<div align="center"> <img src="https://skillicons.dev/icons?i=ts,js,cs,py,php,html,nodejs,react,git,github,docker,mongodb" /> </div>
-Categoria	Tecnologias
-Frontend	TypeScript, JavaScript, HTML5, React
-Backend	C#, Python, PHP, Node.js
-Database	MongoDB, SQL Server
-DevOps	Git, GitHub, Docker
-🏢 ACTUS X - Soluções em Tecnologia
-Como CEO da ACTUS X, desenvolvo soluções sob medida para indústrias e logística:
 
-🖨️ Identificação para Impressão Personalizada
-Sistema completo para geração e gestão de etiquetas e identificadores personalizados.
 
-📦 Sistema de Estoque Inteligente
-Plataforma com controle automatizado, rastreamento em tempo real e gestão inteligente de inventário.
 
-🖥️ Totem para Estoque Inteligente
-Interface autoatendimento para consulta e movimentação de estoque em tempo real.
+⚡ Transformando café em código desde sempre ⚡
 
-📋 Sistema de Requisições com Estoque Inteligente
-Gestão integrada de requisições com validação automática de disponibilidade em estoque.
-
-⚙️ Apontamento de Produção com Acompanhamento ao Vivo
-Sistema de tracking de produção com dashboards em tempo real e monitoramento de KPIs.
-
-🚧 Projetos em Desenvolvimento
-Painel de Chamados Logísticos — Gestão de carga/descarga e expedição
-
-Zyon — Plataforma de apostas em sinuca com ranking e reset periódico
-
-Automação eFootball — Sistema de detecção de input e loops configuráveis
-
-FinControl — Gestão financeira pessoal com controle de gastos e lembretes
-
-🔜 Novos repositórios em breve
-
-🎓 Formação & Certificações
-Área	Descrição
-🎓 Engenharia de Software	Desenvolvimento de sistemas e arquitetura de software
-🏭 Engenharia de Produção	Otimização de processos industriais
-📊 Lean Six Sigma Green Belt	Metodologias de melhoria contínua
-📈 Administração	Gestão estratégica e operacional
-📦 PCP	Planejamento e Controle da Produção
-📊 GitHub Stats
-<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamdek4&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=iamdek4&theme=radical" /> <br><br> <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iamdek4&theme=radical"/> <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iamdek4&theme=radical"/> </div>
-💌 Contato
-<div align="center"> <a href="https://www.linkedin.com/in/anderson-carvalho-braga-9b6330294/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://www.instagram.com/bragaxs/" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> </div>
-<div align="center"> <strong>Obrigado pela visita! Vamos transformar ideias em soluções. 🚀</strong> </div>
+</div>
